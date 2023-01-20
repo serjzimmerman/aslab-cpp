@@ -1,0 +1,27 @@
+[submodule "01-caches/01-hwc"]
+	path = 01-caches/01-hwc
+	url = https://github.com/serjzimmerman/mipt-aslab-cpp-01-hwc.git
+[submodule "02-geometry/01-hw3d"]
+	path = 02-geometry/01-hw3d
+	url = https://github.com/serjzimmerman/mipt-aslab-cpp-02-geometry-01-hw3d.git
+[submodule "01-hwt"]
+	path = 03-trees/01-hwt
+	url = https://github.com/serjzimmerman/mipt-aslab-cpp-03-trees-01-hwt.git
+[submodule "03-trees/02-splay-tree"]
+	path = 03-trees/02-splay-tree
+	url = https://github.com/serjzimmerman/mipt-aslab-cpp-03-trees-02-splay.git
+[submodule "03-trees/03-rmq-lca"]
+	path = 03-trees/03-rmq-lca
+	url = https://github.com/serjzimmerman/mipt-aslab-cpp-03-trees-03-rmq.git
+[submodule "03-trees/04-kd-tree"]
+	path = 03-trees/04-kd-tree
+	url = https://github.com/serjzimmerman/mipt-aslab-cpp-03-trees-04-kd.git
+[submodule "01-matrices"]
+	path = 04-linmath/01-matrices
+	url = https://github.com/serjzimmerman/mipt-aslab-cpp-04-linmath-01-hwmx.git
+[submodule "02-resistors"]
+	path = 04-linmath/02-resistors
+	url = https://github.com/serjzimmerman/mipt-aslab-cpp-04-linmath-02-resistors.git
+[submodule "05-paracl/01-basics"]
+	path = 05-paracl/01-basics
+	url = https://github.com/serjzimmerman/mipt-aslab-cpp-05-paracl-01-basic.git

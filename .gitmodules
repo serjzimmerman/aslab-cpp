@@ -25,3 +25,6 @@
 [submodule "05-paracl/01-basics"]
 	path = 05-paracl/01-basics
 	url = https://github.com/serjzimmerman/mipt-aslab-cpp-05-paracl-01-basic.git
+[submodule "02-geometry/02-vulkan"]
+	path = 02-geometry/02-vulkan
+	url = https://github.com/serjzimmerman/mipt-aslab-cpp-02-geometry-02-vulkan.git
